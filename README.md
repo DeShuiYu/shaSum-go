@@ -1,0 +1,1 @@
+用GO编写的sha256Sum 和sha512Sum命令工具
